@@ -1,6 +1,6 @@
 # Codebase Explainer — MERN-style layout
 
-Converted from the original Replit pnpm monorepo into a simple two-folder layout:
+
 
 ```
 client/   → React + Vite frontend
